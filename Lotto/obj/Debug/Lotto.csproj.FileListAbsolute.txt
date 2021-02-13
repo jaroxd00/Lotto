@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Lotto\obj\Debug\Lotto.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Lotto\obj\Debug\Lotto.Form1.resources
+C:\Users\USER\source\repos\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+C:\Users\USER\source\repos\Lotto\obj\Debug\Lotto.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lotto\bin\Debug\Lotto.exe.config
+C:\Users\USER\source\repos\Lotto\bin\Debug\Lotto.exe
+C:\Users\USER\source\repos\Lotto\bin\Debug\Lotto.pdb
+C:\Users\USER\source\repos\Lotto\obj\Debug\Lotto.exe
+C:\Users\USER\source\repos\Lotto\obj\Debug\Lotto.pdb
+C:\Users\USER\source\repos\Lotto\obj\Debug\Lotto.Cennik.resources
